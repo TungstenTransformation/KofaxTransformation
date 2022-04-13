@@ -1,6 +1,3 @@
-# Kofax Transformation Repository
-
-Here you will find Kofax Transformation assets, guides and best practices.
 ## Top Repositories
 * [Script Library](https://github.com/KofaxTransformation/KTScripts)
 * [Best Practices Guide for Kofax Transformation](https://github.com/KofaxTransformation/Kofax-Transformation-Best-Practices)
