@@ -2,7 +2,7 @@
 
 Here you will find Kofax Transformation assets, guides and best practices.
 ## Repositories
-* Script Library
+* [Script Library](https://github.com/KofaxTransformation/KTScripts)
 * Best Practices Guide for Kofax Transformation
 * Confidence Threshold Optimization Tool
 
