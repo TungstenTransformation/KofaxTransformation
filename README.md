@@ -7,3 +7,5 @@ Here you will find Kofax Transformation assets, guides and best practices.
 * Confidence Threshold Optimization Tool
 
 This account is managed by Kofax Sales Enablement.
+
+Visit also our [KofaxRPA repository](https://github.com/KofaxRPA).
