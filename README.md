@@ -1,7 +1,7 @@
 ## Top Repositories
 * [Script Library](https://github.com/KofaxTransformation/KTScripts)
 * [Best Practices Guide for Kofax Transformation](https://github.com/KofaxTransformation/Kofax-Transformation-Best-Practices)
-* [Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer)
+* [Field Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer)
 
 ## Other links
 * [Kofax Transformation 7.0](https://github.com/KofaxTransformation/KT-7.0) was released on 14 April 2022.
