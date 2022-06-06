@@ -4,6 +4,8 @@
 * [Field Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer)
 
 ## Other links
+* Community of Practice
+   * 7 June 2022. [Field Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer)]
 * [Kofax Transformation 7.0](https://github.com/KofaxTransformation/KT-7.0) was released on 14 April 2022.
 * [Kofax Transformation](https://community.kofax.com/s/topic/0TO3m000000IznVGAS/transformation?language=en_US) at [Kofax Community](https://community.kofax.com).
 * [Online documentation](https://docshield.kofax.com/Portal/Products/en_US/KTM/7.0.0-hyanwr9123/KTM.htm).
