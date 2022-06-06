@@ -1,4 +1,3 @@
-## Links
 * [Kofax Transformation 7.0](https://github.com/KofaxTransformation/KT-7.0) was released on 14 April 2022.
 * [Best Practices Guide for Kofax Transformation](https://github.com/KofaxTransformation/Kofax-Transformation-Best-Practices)
 * [Register](https://cvent.me/Y7gqWA) for our monthly **Community of Practice**
