@@ -2,7 +2,7 @@
 
 * [Best Practices Guide for Kofax Transformation](https://github.com/KofaxTransformation/Kofax-Transformation-Best-Practices)
 * [Register](https://cvent.me/Y7gqWA) for our monthly  **Community of Practice** focusing on **AI skills in Kofax Transformation.**
-   * Tuesday 4 October.  Series. Manage, Train and test 1000's of documents in Kofax Transformation. *The event on 11 October for RPA shows the robot that downloaded these files. Sign up for both!*.
+   * Tuesday 4 October.  Series. Manage, Train and test 1000's of documents in Kofax Transformation.[[presentation and video](https://kofax.app.bigtincan.com/lshare/ZVnKLjoMedqYP9zw3GRlgMrtwiaU9EDxA17QWvab54NrXyJkp2)]
    * 6 September 2022. Best Practices Guide for Training Documents. [[video and presentation](https://kofax.app.bigtincan.com/lshare/lWvwm6qzXx41kPGRj9VMEkXt5i9UXB3ne0QyKpNr527ZDYaoAd)].
    * 5 July 2022. [Advanced Classification](https://github.com/KofaxTransformation/KTScripts/blob/master/Custom%20Classification.md) [[video](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349747)][[presentation](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349748)]
    * 7 June 2022. [Field Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer) [[video](https://kofax.app.bigtincan.com/pfiles/w2kZv90yNLODdMVXA819iyhVcWtxCmCk8zPjG35nramlRpWeoY/f/1039908450)][[presentation](https://kofax.app.bigtincan.com/pfiles/w2kZv90yNLODdMVXA819iyhVcWtxCmCk8zPjG35nramlRpWeoY/f/1039908451)]
