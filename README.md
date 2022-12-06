@@ -2,7 +2,7 @@
 
 * [Best Practices Guide for Kofax Transformation](https://github.com/KofaxTransformation/Kofax-Transformation-Best-Practices)
 * [Register](https://cvent.me/Y7gqWA) for our monthly  **Community of Practice** focusing on **AI skills in Kofax Transformation.**
-   * Tuesday 6 November. All about Validation.
+   * Tuesday 6 December. All about Validation.
    * Tuesday 11 November. All about Formatting. Field Formatters from simple to complex. How to enhance built-in Field Formatters.[[presentation and video](https://kofax.app.bigtincan.com/lshare/0yM3m6XZokwa4evnprJA8d0f9h4Uy82YjKl1LqPQ7Gbd9V5DNz)]
    * Tuesday 4 October.  Series. Manage, Train and test 1000's of documents in Kofax Transformation.[[presentation and video](https://kofax.app.bigtincan.com/lshare/lWvwm6qzXx41kPGRj9VMEk3fPhvF2E3ne0QyKpNr527ZDYaoAd)]
    * 6 September 2022. Best Practices Guide for Training Documents. [[video and presentation](https://kofax.app.bigtincan.com/lshare/lWvwm6qzXx41kPGRj9VMEkXt5i9UXB3ne0QyKpNr527ZDYaoAd)].
