@@ -1,4 +1,5 @@
 * [Kofax Transformation 7.0](https://github.com/KofaxTransformation/KT-7.0) was released on 14 April 2022.
+* **New!** Integrate [Microsoft OCR](https://github.com/KofaxTransformation/MicrosoftOCR/) into Kofax Transformation.
 
 * [Best Practices Guide for Kofax Transformation](https://github.com/KofaxTransformation/Kofax-Transformation-Best-Practices)
 * [Register](https://cvent.me/Y7gqWA) for our monthly  **Community of Practice** focusing on **AI skills in Kofax Transformation.**
