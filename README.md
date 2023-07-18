@@ -1,6 +1,6 @@
 * [Kofax Transformation 7.0](https://github.com/KofaxTransformation/KT-7.0) was released on 14 April 2022.
-* **New!!** [Table Benchmark Guide](Table_Benchmark.md)
-* **New!!** [Advanced Table Locator Guide](Tables_AdvancedTableLocatorGuideForKTA.md)
+* **New!!** [Table Benchmark Guide](/KTScripts/Table_Benchmark.md)
+* **New!!** [Advanced Table Locator Guide](/KTScripts/Tables_AdvancedTableLocatorGuideForKTA.md)
 * Integrate [Microsoft OCR](https://github.com/KofaxTransformation/MicrosoftOCR/) into Kofax Transformation.
 
 * [Best Practices Guide for Kofax Transformation](https://github.com/KofaxTransformation/Kofax-Transformation-Best-Practices)
